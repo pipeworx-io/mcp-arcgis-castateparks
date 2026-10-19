@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-castateparks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "California State Parks GIS — California State Parks open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c4835dcc3466e5252d5e8a00fde3e1f31fc2b7fac3b21dd7d6b36f37aa64559a",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-c150a76118410d472999909a26ba30480542c81ff2316a656477af725bf04e79",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
